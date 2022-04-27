@@ -1,0 +1,6 @@
+digraph G 
+{
+  graph [layout=dot rankdir=LR]
+  { MAIN } -> { ler_dir, b, c }
+
+}
