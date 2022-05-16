@@ -1,23 +1,20 @@
-format ELF64 executable 3
-;; ---- BITS 64 ----- ;;   
-segment readable executable
-entry start
-return:
-  mov rax, 60
+BITS 64
+%include "/usr/include/goffiLang/stdGlib.s"
+
+global _start
+section .text
+_start:
+  push 2
+  push 2
+  equal
+  push rcx
+
+  pop rdi
+  call dump
+
+
+  mov eax, 1
   mov rdi, 0
-  
-  syscall
-  ret
-start:
-  mov rax, 1
-  mov rdi, 1
-  mov rsi, hello
-  mov rdx, 13
-  syscall
+  int 0x80
 
-  call return 
 
-  
-segment readable writable
-hello: db "Hello world", 10
-	
