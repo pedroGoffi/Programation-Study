@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "doPe++EuXnd3skHFxXTAOU6MJ3vNxngLBcRqZX3+wWWI9n1Uzqz5W7zzY8y0UuY8Bl6o6JyttEdUZiSxxJN9iA==",
+  "success": true,
+  "projectFilePath": "/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/JSONReaderLecture.csproj",
+  "expectedPackageFiles": [
+    "/home/pietra/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/pietra/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/home/pietra/.nuget/packages/system.text.json/6.0.4/system.text.json.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

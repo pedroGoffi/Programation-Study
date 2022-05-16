@@ -1,0 +1,17 @@
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/bin/Debug/netcoreapp3.1/JSONReaderLecture
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/bin/Debug/netcoreapp3.1/JSONReaderLecture.deps.json
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/bin/Debug/netcoreapp3.1/JSONReaderLecture.runtimeconfig.json
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/bin/Debug/netcoreapp3.1/JSONReaderLecture.runtimeconfig.dev.json
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/bin/Debug/netcoreapp3.1/JSONReaderLecture.dll
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/bin/Debug/netcoreapp3.1/JSONReaderLecture.pdb
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/obj/Debug/netcoreapp3.1/JSONReaderLecture.csprojAssemblyReference.cache
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/obj/Debug/netcoreapp3.1/JSONReaderLecture.AssemblyInfoInputs.cache
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/obj/Debug/netcoreapp3.1/JSONReaderLecture.AssemblyInfo.cs
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/obj/Debug/netcoreapp3.1/JSONReaderLecture.csproj.CoreCompileInputs.cache
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/obj/Debug/netcoreapp3.1/JSONReaderLecture.dll
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/obj/Debug/netcoreapp3.1/JSONReaderLecture.pdb
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/obj/Debug/netcoreapp3.1/JSONReaderLecture.genruntimeconfig.cache
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/bin/Debug/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/home/pietra/Desktop/programacao/GENERAL PORPUSE/c#/JSONReaderLecture/obj/Debug/netcoreapp3.1/JSONReaderLecture.csproj.CopyComplete
